@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+29682,dri,adriano,delphino,adri@adri.com,123456,999999999,1
+29683,jdoe,john,doe,john.doe@example.com,abcdef,888888888,1
+29684,asmith,alice,smith,alice.smith@example.com,alice123,777777777,1
+29685,mbrown,michael,brown,michael.brown@example.com,password1,666666666,1
+29686,jjones,julia,jones,julia.jones@example.com,qwerty,555555555,1
+29687,rwilliams,robert,williams,robert.williams@example.com,robert2024,444444444,1
+29688,jgarcia,jennifer,garcia,jennifer.garcia@example.com,jennifer007,333333333,1
+29689,djohnson,david,johnson,david.johnson@example.com,davidpass,222222222,1
+29690,mwhite,mary,white,mary.white@example.com,marysecure,111111111,1
+29691,tharris,thomas,harris,thomas.harris@example.com,thomasharris,101010101,1
